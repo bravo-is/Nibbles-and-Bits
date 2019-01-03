@@ -18,6 +18,9 @@ With the exponential growth of human progress over the past century theres is no
 ## Personal Identity  
 What is it that people value when we are alive and it is reconcilable with our current understanding through neuroscience and does it hold up to critical inspection.
 
+## Morality  
+If human beings achieve immortality and are able to help other conscious beings become immortal, say for example dogs or ants, then are we morally obligated to help them become immortal?  
+
 ## Notes
 Aubrey De Grey - anti-aging advocate  
 Nick Bostrom - contemporary philosopher  
