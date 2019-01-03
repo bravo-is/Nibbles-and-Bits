@@ -17,9 +17,11 @@ With the exponential growth of human progress over the past century theres is no
 
 ## Personal Identity  
 What is it that people value when we are alive and it is reconcilable with our current understanding through neuroscience and does it hold up to critical inspection.  
+When can we consider someone to be dead? If you have to replace someone's brain with another's to keep their biological systems functioning would you still consider them to be alive?  
 
 ## Morality  
 If human beings achieve immortality and are able to help other conscious beings become immortal, say for example dogs or ants, then are we morally obligated to help them become immortal?  
+If immortality becomes the norm and someone does not desire to be immortal, then should we let them die or should we consider that desire a mental illness and give them medical treatment for it.  
 
 ## Notes
 Aubrey De Grey - anti-aging advocate  
