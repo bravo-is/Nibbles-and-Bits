@@ -16,7 +16,8 @@ With the exponential growth of human progress over the past century theres is no
 [TED-Stephen Cave](https://www.youtube.com/watch?v=PB7xs7UpIfY)  
 
 ## Personal Identity  
-What is it that people value when we are alive and it is reconcilable with our current understanding through neuroscience and does it hold up to critical inspection.
+What is it that people value when we are alive and it is reconcilable with our current understanding through neuroscience and does it hold up to critical inspection.  
+[Derek Parfit](http://home.sandiego.edu/~baber/metaphysics/readings/Parfit.PersonalIdentity.pdf)
 
 ## Notes
 Aubrey De Grey - anti-aging advocate  
