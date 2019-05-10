@@ -2,6 +2,10 @@
 ![Immortality](/Images/Immortality1.jpg)  
 
 ## The public sphere  
+
+### Relevance
+Is it rational to think that with the current pace of technological advancement we will finally cure aging? Or is this a position that has been held by hopefuls in every era? What evidence do we have to support either of these claims.
+
 ### Aubrey De Grey - anti-aging advocate
 Targeting aging may be a new strategy in fighting the deceases that arise from it.
 
