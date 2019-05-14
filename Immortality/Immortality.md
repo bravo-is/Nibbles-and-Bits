@@ -1,12 +1,14 @@
-# Immortality  
-![Immortality](/Images/Immortality1.jpg)  
+ # Immortality  
+![Immortality](images/Immortality1.jpg)  
 
 ## The public sphere  
 
 ### Relevance
 Is it rational to think that with the current pace of technological advancement we will finally cure aging? Or is this a position that has been held by hopefuls in every era? What evidence do we have to support either of these claims.
 
-### Aubrey De Grey - anti-aging advocate
+From a historical perspective one of the earliest quests for immortality came from China's first emperor *Qin Shi Huang*. An order was made to every government post in the empire instructing them to divert all resources for the search of an elixir of immortality. Magic, alchemy, herbs, he tried everything but none showed promise. Ultimately it was this obsession with immortality that lead to the emperor's early death, his alchemists had produced what they thought may be a life prolonging drug that turned out to be poisonous mercury sulfide.
+
+### Anti-aging technology
 Targeting aging may be a new strategy in fighting the deceases that arise from it.
 
 Advancements in health and technology
